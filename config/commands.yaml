@@ -1,0 +1,6 @@
+spawn:
+    description: "spawns an item, or an entity"
+make:
+    description: "the player makes a grid entity"
+move:
+    description: "the player moves an entity"

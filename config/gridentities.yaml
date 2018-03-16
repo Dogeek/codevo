@@ -1,0 +1,113 @@
+---
+id: 0
+sprite: nothing.png
+can_pass: true
+weight: 0
+health: -1
+num_frames: 1
+is_transparent: True
+---
+id: 1
+sprite: ground.png
+can_pass: true
+weight: 0
+health: -1
+num_frames: 1
+is_transparent: False
+---
+id: 2
+sprite: ground_bottom.png
+can_pass: true
+weight: 0
+health: -1
+num_frames: 1
+is_transparent: True
+---
+id: 3
+sprite: ground_left.png
+can_pass: true
+weight: 0
+health: -1
+num_frames: 1
+is_transparent: True
+---
+id: 4
+sprite: ground_right.png
+can_pass: true
+weight: 0
+health: -1
+num_frames: 1
+is_transparent: True
+---
+id: 5
+sprite: ground_top.png
+can_pass: true
+weight: 0
+health: -1
+num_frames: 1
+is_transparent: True
+---
+id: 6
+sprite: pit.png
+can_pass: false
+weight: 10
+health: -1
+num_frames: 1
+is_transparent: False
+---
+id: 7
+sprite: bush.png
+can_pass: false
+weight: 10
+health: 10
+num_frames: 1
+is_transparent: True
+---
+id: 8
+sprite: water_waterfall.png
+can_pass: false
+weight: 10
+health: -1
+num_frames: 8
+is_transparent: False
+---
+id: 9
+sprite: water_stagnating.png
+can_pass: false
+weight: 10
+health: -1
+num_frames: 8
+is_transparent: False
+---
+id: 10
+sprite: stone_wall.png
+can_pass: false
+weight: 10
+health: -1
+num_frames: 1
+is_transparent: False
+---
+id: 11
+sprite: bridge_wood_left.png
+can_pass: true
+weight: 0
+health: -1
+num_frames: 1
+is_transparent: True
+---
+id: 12
+sprite: bridge_wood_middle.png
+can_pass: true
+weight: 0
+health: -1
+num_frames: 1
+is_transparent: True
+---
+id: 13
+sprite: bridge_wood_right.png
+can_pass: true
+weight: 0
+health: -1
+num_frames: 1
+is_transparent: True
+...

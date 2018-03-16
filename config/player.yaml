@@ -1,0 +1,8 @@
+---
+type: Player
+name: Dogeek
+health: 12
+magic: 100
+animation: /sprites/animations/player.yaml
+inventory:
+...

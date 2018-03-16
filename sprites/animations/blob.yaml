@@ -1,0 +1,17 @@
+---
+type: Blob
+spritesheet: /sprites/entities/blob.png
+colorkey:
+    - 255
+    - 0
+    - 255
+width: 32
+height: 32
+num_frames: 3
+frame_time: 3
+directions:
+    - 0 #down
+    - 1 #right
+    - 2 #left
+    - 3 #up
+...

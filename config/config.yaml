@@ -1,0 +1,10 @@
+---
+screen_width: 640
+screen_height: 480
+repeat_delay: 20
+repeat_interval: 10
+language: en-US
+grid_entities_folder: sprites/grid/
+level_folder: levels/
+current_campain: main_campain
+...
